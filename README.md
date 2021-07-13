@@ -6,5 +6,5 @@ Simple React component to customize Select with custom Option.
 ## Start
 - Clone repository
 - run `npm install` command
-- launch development environment with `npm run dev``
+- launch development environment with `npm run dev`
 
